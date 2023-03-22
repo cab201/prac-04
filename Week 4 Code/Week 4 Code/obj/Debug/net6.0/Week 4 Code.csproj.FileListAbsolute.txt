@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\bin\Debug\net6.0\Week 4 Code.exe
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\bin\Debug\net6.0\Week 4 Code.deps.json
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\bin\Debug\net6.0\Week 4 Code.runtimeconfig.json
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\bin\Debug\net6.0\Week 4 Code.dll
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\bin\Debug\net6.0\Week 4 Code.pdb
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.AssemblyInfo.cs
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.dll
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\refint\Week 4 Code.dll
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.pdb
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\Week 4 Code.genruntimeconfig.cache
+C:\Users\MELTUser01\Documents\prac-04\Week 4 Code\Week 4 Code\obj\Debug\net6.0\ref\Week 4 Code.dll
